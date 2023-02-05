@@ -3,7 +3,7 @@
   The app is a single-page application that meets the PWA criteria. It features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline. The app uses methods for getting and storing data to an IndexedDB database, using a package called idb, which is a lightweight wrapper around the IndexedDB API..
 
   Github Repo: https://github.com/JaredIng87/pwa-text-editor.<br>
-  Deployed Link: https://drive.google.com/file/d/15HId6tyvzqlXUe-Lje4kXEOgsTl2Bbnq/view
+  Deployed Link: https://gentle-waters-77997.herokuapp.com/
 
   ## Table of Contents
 
